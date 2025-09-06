@@ -1,2 +1,2 @@
-# SimpleCaculator
+# SimpleCalc
 A simple caculator
